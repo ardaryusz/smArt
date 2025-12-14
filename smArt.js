@@ -29,8 +29,8 @@
       this.draggabillyScriptUrl =
         "https://unpkg.com/draggabilly@3/dist/draggabilly.pkgd.min.js";
 
-      this.assetBase =
-        "https://raw.githubusercontent.com/ARDARYUS/a3kbookmarklet/main/icons/";
+      this.assetBase = 
+        "https://cdn.jsdelivr.net/gh/ardaryusz/smArt@main/icons/";
 
       // settings keys & defaults
       this.settingsKeys = {
