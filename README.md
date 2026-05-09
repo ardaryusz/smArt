@@ -1,4 +1,4 @@
-# smArt :eye:
+# smArt
 
 Ever come home from school ready to relax… and then remember you’ve got **five Achieve3000 assignments due tomorrow**?
 
@@ -10,20 +10,20 @@ Ever come home from school ready to relax… and then remember you’ve got **fi
 - Automatically selecting answers for multiple-choice questions
 - Generating and inserting responses for writing prompts
 
-## How it works 🧠
+## How it works
 1. Add the bookmarklet to your browser
 2. Open an **Achieve3000** activity
 3. Click the bookmark **→** a draggable launcher appears
 4. Hit **work smArt-er** to start *(and **stop.** to stop)*
 5. Modify the settings with **the gear cog** on the bottom left of the launcher
 
-## Settings :gear:
+## Settings
 - Multiple-choice timing *(delay between questions to mimic real solving times)*
 - Optional random-answer percentage *(to mimic real users)*
 - Groq URL + model *(with reset to defaults)*
 - Single **GroqCloud** API key *(you can get a free key from https://console.groq.com/keys )*
 
-## How to Add the Bookmarklet 🤔
+## How to Add the Bookmarklet
 1. Copy everything in `bookmarklet.js`
 2. In your browser, add new page to your bookmarklets. 
 > for Google Chrome, right click on the bookmarklet bar and press on "add new page"
